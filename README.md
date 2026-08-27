@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A4F9C&height=160&section=header&text=Shahul%20Gani&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MSc%20Mechatronics%20%C2%B7%20Game%20%26%20Simulation%20Design%20%C2%B7%20Unreal%20Engine%205&descAlignY=58&descSize=15&descColor=CCE0FF" alt="header"/>
+<!-- HEADER -->
+# Shahul Gani
+### MSc Mechatronics · Game & Simulation Design · Unreal Engine 5
 
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahulgani)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahulblaze@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A4F9C?style=for-the-badge&logo=artstation&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A4F9C?style=for-the-badge&logo=artstation&logoColor=white)](https://github.com/ShahulBlaze/physics-playground-unreal)
 [![Location](https://img.shields.io/badge/Bratislava%2C%20Slovakia-0F9D58?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Remote%20%7C%20EU-brightgreen?style=for-the-badge)](#)
 
 </div>
+
 
 ---
 
@@ -134,7 +136,5 @@ SIMATS School of Engineering, Chennai, India *(2018 – 2022)*
 <div align="center">
 
 **💬 Let's connect — open to junior game design, technical design, and simulation roles (Remote / EU)**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1A4F9C&height=100&section=footer" alt="footer"/>
 
 </div>
