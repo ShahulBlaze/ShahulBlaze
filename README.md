@@ -84,17 +84,8 @@ My engineering background is in **dynamic simulation and multibody modelling** �
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahulBlaze&show_icons=true&theme=tokyonight&hide_border=true&title_color=1A4F9C&icon_color=1A4F9C)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahulBlaze&layout=compact&theme=tokyonight&hide_border=true&title_color=1A4F9C)
-
-</div>
-
 ---
+
 
 ## 📚 Currently Learning
 
