@@ -68,11 +68,11 @@ My engineering background is in **dynamic simulation and multibody modelling** �
 
 `Unreal Engine 5` `Blueprints` `Physics Simulation` `Level Design`
 ### 🎨 [Mechanica — Game UI Mockup](https://www.figma.com/design/vkP8B60jWdNZcpe7qo5NlL/Untitled?node-id=1-2) *(Complete)*
-> A complete, prototyped game UI — HUD, inventory, pause menu, and settings screens — designed and wired together as a clickable prototype in Figma.
+> A complete, prototyped game UI for a fictional physics-puzzle game — HUD, inventory, and pause menu, designed and wired together as a clickable prototype in Figma.
 
 `Figma` `UI/UX Design` `Prototyping`
 
-![Mechanica UI](screenshots/PauseMenu.png)
+<img src="screenshots/mechanica-hud.png" width="270"/> <img src="screenshots/mechanica-inventory.png" width="270"/> <img src="screenshots/mechanica-pause-menu.png" width="270"/>
 
 ---
 
