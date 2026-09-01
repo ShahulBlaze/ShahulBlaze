@@ -72,7 +72,7 @@ My engineering background is in **dynamic simulation and multibody modelling** â
 
 `Figma` `UI/UX Design` `Prototyping`
 
-![Mechanica UI](screenshots/HUD.png)
+![Mechanica UI](screenshots/PauseMenu.png)
 
 ---
 
