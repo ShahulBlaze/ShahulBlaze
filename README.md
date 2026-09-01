@@ -67,6 +67,15 @@ My engineering background is in **dynamic simulation and multibody modelling** �
 > A physics-based Unreal Engine 5 scene featuring a rolling ramp, a domino chain reaction, and a hinge-constrained seesaw — all built with Blueprints and Physics Constraints.
 
 `Unreal Engine 5` `Blueprints` `Physics Simulation` `Level Design`
+### 🎨 [Mechanica — Game UI Mockup](https://www.figma.com/design/vkP8B60jWdNZcpe7qo5NlL/Untitled?node-id=1-2) *(Complete)*
+> A complete, prototyped game UI — HUD, inventory, pause menu, and settings screens — designed and wired together as a clickable prototype in Figma.
+
+`Figma` `UI/UX Design` `Prototyping`
+
+![Mechanica UI](<img width="1920" height="1080" alt="HUD" src="https://github.com/user-attachments/assets/ee3ad956-7173-411d-af83-e439d9904c86" />
+<img width="1920" height="1080" alt="Inventory" src="https://github.com/user-attachments/assets/944ce6e4-ca6a-4c36-abfa-6908f2707b82" />
+<img width="1920" height="1080" alt="Pause Menu" src="https://github.com/user-attachments/assets/9dc058d2-2948-4b6f-9020-d838388f8060" />)
+
 
 ---
 
